@@ -1,2 +1,1 @@
-# Tin-Dog
-Startup website 
+TinDog Starting Files
